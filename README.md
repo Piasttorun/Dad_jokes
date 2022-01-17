@@ -17,7 +17,7 @@ How should you teach complex computer science?
 Never Gonna Give You Up by Rick Astley. You know the rules and so do I. You wouldnt get this from any other guy. Never gonna run around and desert you. Never gonna tell a lie and hurt you. But you’re too shy to say it. We know the game and we’re gonna play it. Never gonna run around and desert you.
 
 What did the ocean say to the beach?
-You kinda grainy
+https://www.youtube.com/watch?v=k85mRPqvMbE
 
 What type of cheese do you use if you need to hide a horse?
 Horse-cheese
