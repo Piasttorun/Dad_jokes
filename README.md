@@ -5,7 +5,7 @@ Why did the chicken cross the road?
 Because he had haskell coursework due.
 
 What is orange and sounds like a parrot? 
-Donald Trump
+My sister
 
 What did the cheese say to the mirror? 
 Somebody once told me the world is gonna roll me
